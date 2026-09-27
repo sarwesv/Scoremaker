@@ -1,0 +1,12 @@
+CorrelationId: d606d2ec-1e51-4226-9b5e-8407cde2cf8e
+UTC DateTime: 08/25/2026 21:54:45
+
+The following files/folders have not been downloaded
+0. Scoremaker/.git/objects/b2/f654e8effced0ab3fd95d406148b0d6a478fa5
+1. Scoremaker/.git/objects/bb/e490d4a40be7e4bd87dda4739a46229713d715
+2. Scoremaker/.git/objects/ca
+3. Scoremaker/.git/objects/da/fad60027f43ab5fd3e272a964cb34bfdc4f8af
+4. Scoremaker/.git/objects/e8/5808e0d152094fcab34ab913206a691c0930bb
+5. Scoremaker/.git/refs/tags
+6. Scoremaker/.github/workflows/deploy.yml
+7. Scoremaker/Typing
